@@ -24,8 +24,27 @@ FastAPI is a modern, fast (high-performance), web framework for building APIs wi
 pip install fastapi uvicorn
 ```
 
-# Run App
+# Run FastAPI Application
+
+## Run App Using uvicorn
 
 ```
 uvicorn main:app
+uvicorn main:app --port=8080
+uvicorn main:app --reload
 ```
+
+## Run App Using fastapi[standard]
+
+```
+pip install fastapi[standard]
+fastapi dev main.py
+```
+
+# Swagger Docs URL
+```
+http://127.0.0.1/docs
+```
+
+# FIle List
+- `first.py`: first FastApi app
