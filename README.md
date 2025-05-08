@@ -56,4 +56,5 @@ http://127.0.0.1/redoc
 
 # File List
 - `first.py`: first FastApi app
-- `path_paameter.py`: basic path parameter, typed path parameter, predefined path parameter using enum
+- `path_parameter.py`: basic path parameter, typed path parameter, predefined path parameter using enum
+- `query_parameters.py`: basic query parameter, optional query parameter, required query parameter
