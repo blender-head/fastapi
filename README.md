@@ -59,3 +59,4 @@ http://127.0.0.1/redoc
 - `path_parameter.py`: basic path parameter, typed path parameter, predefined path parameter using enum
 - `query_parameters.py`: basic query parameter, optional query parameter, required query parameter
 - `request_body.py`: using post / put to get request, define request body using pydantic model, mix request body, path parameters amd query parameter 
+- `query_parameters_validation.py`: apply query parameter using Annotated and Query method, implement multiple query with the same name, adding metadata to Swagger / OpenApi doc using Query method, apply custom validation after Query validation
