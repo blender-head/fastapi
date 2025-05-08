@@ -41,10 +41,19 @@ pip install fastapi[standard]
 fastapi dev main.py
 ```
 
-# Swagger Docs URL
+# Application's Doc
+
+## Swagger Docs
 ```
 http://127.0.0.1/docs
 ```
 
-# FIle List
+## OpenAPI Docs
+```
+http://127.0.0.1/redoc
+```
+
+
+# File List
 - `first.py`: first FastApi app
+- `path_paameter.py`: basic path parameter, typed path parameter, predefined path parameter using enum
