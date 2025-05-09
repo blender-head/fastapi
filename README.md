@@ -70,7 +70,9 @@ http://127.0.0.1/redoc
     - define request body using pydantic model
     - mix request body, path parameters and query parameter 
 - `query_parameters_validation.py`: 
-    - apply query parameter using Annotated and Query method
+    - apply query parameter validation using Annotated and Query method
     - implement multiple query with the same name
     - adding metadata to Swagger / OpenApi doc using Query method
     - apply custom validation after Query validation
+- `path_parameter_validation.py`:
+    - apply path parameter validation using Annotated and Query method
