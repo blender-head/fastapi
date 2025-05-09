@@ -76,3 +76,5 @@ http://127.0.0.1/redoc
     - apply custom validation after Query validation
 - `path_parameter_validation.py`:
     - apply path parameter validation using Annotated and Query method
+- `query_parameter_model.py`:
+    - use pydantic model to define query parameters
