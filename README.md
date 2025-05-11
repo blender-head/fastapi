@@ -84,3 +84,5 @@ http://127.0.0.1/redoc
     - add singular values in body
     - multiple body params and query
     - embed a single body parameter
+- `body_model_validation.py`:
+    - validate body parameter using pydantic model
