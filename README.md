@@ -86,3 +86,12 @@ http://127.0.0.1/redoc
     - embed a single body parameter
 - `body_model_validation.py`:
     - validate body parameter using pydantic model
+- `body_nested_models.py`:
+    - declare body parameter is an array of any value in pydantic model
+    - declare body parameter is an array os=f string in pydantic model
+    - declare body parameter is a unique set in pydantic model
+    - declare nested body parameter
+    - set array as body parameter
+    - set body as of arbitrary dicts
+- `request_example_data.py`:
+    - add schema example for the swagger doc
