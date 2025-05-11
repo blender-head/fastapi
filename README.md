@@ -78,3 +78,9 @@ http://127.0.0.1/redoc
     - apply path parameter validation using Annotated and Query method
 - `query_parameter_model.py`:
     - use pydantic model to define query parameters
+- `body_multiple_parameter.py`:
+    - mix Path, Query and body parameters
+    - multiple body parameters
+    - add singular values in body
+    - multiple body params and query
+    - embed a single body parameter
