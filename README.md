@@ -97,3 +97,5 @@ http://127.0.0.1/redoc
     - add schema example for the swagger doc
 - `extra_data_types.py`:
     - use additional data types other than int / str / float / bool
+- `cookie_parameters.py`:
+    - handling cookie
