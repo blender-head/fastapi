@@ -95,3 +95,5 @@ http://127.0.0.1/redoc
     - set body as of arbitrary dicts
 - `request_example_data.py`:
     - add schema example for the swagger doc
+- `extra_data_types.py`:
+    - use additional data types other than int / str / float / bool
