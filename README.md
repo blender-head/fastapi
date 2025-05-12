@@ -107,3 +107,7 @@ http://127.0.0.1/redoc
     - using pydantic model for request and response header
 - `response_model_type.py`:
     - using return type annotations
+- `extra_models.py`:
+    - using separate model for request and response
+    - using multiple response models for one route
+    - exclude field from a model ina response
