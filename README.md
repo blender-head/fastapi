@@ -99,3 +99,5 @@ http://127.0.0.1/redoc
     - use additional data types other than int / str / float / bool
 - `cookie_parameters.py`:
     - handling cookie
+- `header_parameters.py`:
+    - handling request and response headers
