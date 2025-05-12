@@ -105,3 +105,5 @@ http://127.0.0.1/redoc
     - using pydantic model for cookies
 - `header_parameter_model.py`:
     - using pydantic model for request and response header
+- `response_model_type.py`:
+    - using return type annotations
