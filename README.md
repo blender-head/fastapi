@@ -111,3 +111,5 @@ http://127.0.0.1/redoc
     - using separate model for request and response
     - using multiple response models for one route
     - exclude field from a model ina response
+- `response_status_code.py`:
+    - using FastAPI `status` module
