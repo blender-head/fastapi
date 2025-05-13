@@ -121,3 +121,5 @@ http://127.0.0.1/redoc
     - handling file upload(s)
 - `handling_error.py`:
     - handling exceptions
+- `path_operation_configuration.py`:
+    - set various path operation configuration 
