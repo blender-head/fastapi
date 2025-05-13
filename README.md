@@ -113,3 +113,5 @@ http://127.0.0.1/redoc
     - exclude field from a model ina response
 - `response_status_code.py`:
     - using FastAPI `status` module
+- `form_data.py`:
+    - handling form data (application/x-www-form-urlencoded or multipart/form-data content)
