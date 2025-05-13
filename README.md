@@ -117,3 +117,5 @@ http://127.0.0.1/redoc
     - handling form data (application/x-www-form-urlencoded or multipart/form-data content)
 - `form_model.py`:
     - use pydantic to define form body parameters
+- `request_file.py`:
+    - handling file upload(s)
