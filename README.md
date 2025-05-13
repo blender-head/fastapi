@@ -110,8 +110,10 @@ http://127.0.0.1/redoc
 - `extra_models.py`:
     - using separate model for request and response
     - using multiple response models for one route
-    - exclude field from a model ina response
+    - exclude field from a model in a response
 - `response_status_code.py`:
     - using FastAPI `status` module
 - `form_data.py`:
     - handling form data (application/x-www-form-urlencoded or multipart/form-data content)
+- `form_model.py`:
+    - use pydantic to define form body parameters
