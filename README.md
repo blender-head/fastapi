@@ -123,3 +123,5 @@ http://127.0.0.1/redoc
     - handling exceptions
 - `path_operation_configuration.py`:
     - set various path operation configuration 
+- `jsonable_encoder.py`:
+    - using jsonable_encoder to convert data into JSON-compatible data structures
