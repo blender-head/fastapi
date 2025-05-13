@@ -119,3 +119,5 @@ http://127.0.0.1/redoc
     - use pydantic to define form body parameters
 - `request_file.py`:
     - handling file upload(s)
+- `handling_error.py`:
+    - handling exceptions
